@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+*.out
+*.exe
+*.o
+*.a
+*.so
+
+# Ignore build folders
+/build/
+/bin/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Mac / Linux junk
+.DS_Store
